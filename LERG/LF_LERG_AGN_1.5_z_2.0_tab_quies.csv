@@ -1,5 +1,5 @@
 logL,rho_lerg,rho_lerg_nerr,rho_lerg_perr,N_lerg,rho_lerg_Q,rho_lerg_nerr_Q,rho_lerg_perr_Q,N_lerg_Q,rho_lerg_SF,rho_lerg_SF_nerr,rho_lerg_SF_perr,N_lerg_SF
-24.45,nan,nan,nan,0,-5.31,0.09,0.09,64,nan,nan,nan,0
+24.45,-4.61,0.08,0.08,306,-5.31,0.09,0.09,64,nan,nan,nan,0
 24.75,-4.7,0.04,0.04,581,-5.52,0.06,0.06,85,-4.77,0.04,0.04,496
 25.05,-4.83,0.03,0.03,516,-5.79,0.06,0.05,57,-4.88,0.03,0.03,459
 25.35,-5.08,0.03,0.03,314,-5.93,0.07,0.05,44,-5.14,0.03,0.03,270
